@@ -34,6 +34,7 @@
 #define DAVS2_DAVS2_H
 
 #include <stdint.h>
+#include "davs2_config.h"
 
 #ifdef __cplusplus
 extern "C" {    // only need to export C interface if used by C++ source code
